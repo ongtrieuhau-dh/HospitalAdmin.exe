@@ -1,0 +1,7 @@
+package.json
+HospitalAdmin.exe.xml
+.advinst/*
+.build-tools*
+.build-tools
+list_id_drive_app.txt
+Log-*
